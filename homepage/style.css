@@ -162,6 +162,11 @@ form input {
         font-size: 3.2em;
         margin-bottom: 20px;
     }
+
+    .campo {
+        padding: 0px 50px;
+        width: 80%;
+    }
 }
 
 @media (max-width: 610px) {
@@ -252,6 +257,7 @@ form input {
       
     .campo {
         padding: 0px 50px;
+        width: 80%;
     }
     
     #signup {
